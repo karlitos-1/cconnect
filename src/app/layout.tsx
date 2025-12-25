@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "C-CONNECT - Solutions Techniques, Réseaux et Sécurité",
+  title: "C-CONNECT",
   description:
     "C-CONNECT, expert en solutions techniques à Pointe-Noire, Congo.",
 };

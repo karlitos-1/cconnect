@@ -10,7 +10,6 @@
         "next": "^15.3.2",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
-        "same-runtime": "^0.0.1",
         "tailwind-merge": "^3.3.0",
         "tailwindcss-animate": "^1.0.7"
       },
@@ -3181,13 +3180,6 @@
         }
       },
       "sha512-x/+Cz4YrimQxQccJf5mKEbIa1NzeCRNI5Ecl/ekmlYaampdNLPalVyIcCZNNH3MvmqBugV5TMYZXv0ljslUlaw=="
-    ],
-
-    "same-runtime": [
-      "same-runtime@0.0.1",
-      "",
-      { "dependencies": { "bippy": "^0.3.17" } },
-      "sha512-z15BH+waEekQpYA8SF3YwU2hqrjKd1cGI+/2Ld+g1SWHxtH/gsYNfUNvTTqcTFmEcwPU8+UeKUV4hkASJvyr5g=="
     ],
 
     "scheduler": [
