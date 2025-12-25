@@ -1,6 +1,7 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import VoiceAssistant from "@/components/VoiceAssistant";
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import "./globals.css";
 
@@ -22,6 +23,7 @@ export default function RootLayout({
         <main className="min-h-screen">{children}</main>
         <Footer />
         <VoiceAssistant />
+        <Analytics />
       </body>
     </html>
   );
